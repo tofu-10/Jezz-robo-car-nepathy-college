@@ -1,6 +1,6 @@
-# The JEEZ - RC Robo Car Project
+# The JEZZ - RC Robo Car Project
 Project Title: RC Robo Car for Nepathya Intra-College RC Robo Racing Competition</br>
-Team Name: The JEEZ</br>
+Team Name: The JEZZ</br>
 Award: Second Runner-up, Nepathya Intra-College RC Robo Racing Competition</br>
 
 ## Project Overview</br>
@@ -103,7 +103,7 @@ Further Speed Optimization: Fine-tuning the speed control for smoother accelerat
 
 ---
 # Conclusion
-The JEEZ RC Robo Car Project was a great learning experience for our team. By leveraging the power of ESP8266 and basic robotics principles,</br> we successfully built a robust car that earned us Third place in the Nepathya Intra-College competition. We plan to continue enhancing this project by adding more sophisticated features and improving the control system </br>< We may not update code in this reppo before another race >.
+The JEZZ RC Robo Car Project was a great learning experience for our team. By leveraging the power of ESP8266 and basic robotics principles,</br> we successfully built a robust car that earned us Third place in the Nepathya Intra-College competition. We plan to continue enhancing this project by adding more sophisticated features and improving the control system </br>< We may not update code in this reppo before another race >.
 
 # Acknowledgments
 Thanks to Nepathya College for organizing the competition.
@@ -113,15 +113,14 @@ Thanks to Nepathya College for organizing the competition.
 <!-- Special thanks to ChatGPT for guidance throughout the project. -->
 
 ### Fun fact :
-  we managed to get second runner-up position with very minimal cost and design 
-  - no complexity, less money 😎
+  We managed to get second runner-up position with very minimal cost and design 
+  - no complexity, less money (Minimal cost as compared to every other team)
   - Cost: Rs.2000 NRP or 14.90 $USD 
-  - we used used wooden block from collage for Chassis and designing outer cover <Free of cost 😎 >
-  - winning prize 5000 + participation cost 3500
-  - Participation cost was given to every teems participating [ to cover up the cost of making, designing car ], but in our case cost was less than 2000, SO IT WAS  WIN WIN SITURATION 😚
-  - we removed outer cover of car in last minutes of race for better speed and less weight since we had obstacle like: a dead jump ☠️ , two big plates of water 🤣, narrow wodden block, teen 🥲 and meny more
-  - Project engineered by @aakku106 / Adarasha Gaihre
-### I will be adding some pic of car and I also wanna share the design behind palcement of motor, material used to attatch motor to Chassis and many more, stay tuned 🦚💙
+  - we used wooden block from collage for Chassis and designing outer cover <Free of cost >
+  - winning prize 5000 + participation prize 3500
+  - Participation cost was given to every teems participating [ to cover up the cost of making, designing car ], Cause of minimal cost we managed to generate profit from the participation money as well!!
+  - we removed outer cover of car in last minutes of race for better speed and less weight since we had obstacle like: a dead jump , two big plates of water , narrow wodden block, tin and roundabout and all.
+  - Project engineered by @aakku106 / Adarasha Gaihre, Crafted and Controlled by @tofu-10 / Rijan Shrestha, Designed by Sauravi Chapagain, All rouned helped by Ashish Kafle. 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Jeez&label=Views&icon=3&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=JEZZ&label=Views&icon=3&pretty=true" />
 </a>
